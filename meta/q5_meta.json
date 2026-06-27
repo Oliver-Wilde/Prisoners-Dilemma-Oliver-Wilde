@@ -1,0 +1,16 @@
+{
+  "run_label": "Q5",
+  "rounds": 80,
+  "repeats": 6,
+  "epsilons": [0,0.05],
+  "T": 5, "R": 3, "P": 1, "S": 0,
+  "seed": 123,
+  "strategies": ["ALLC","ALLD","TFT","GRIM","PAVLOV"],
+  "format": "text",
+  "evolve": true,
+  "population": 50,
+  "generations": 8,
+  "mutation": 0.05,
+  "scb_on": true,
+  "scb_cost": {"ALLC": 1,"ALLD": 1,"CTFT": 3,"GRIM": 2,"GRUDGE2": 2,"PAVLOV": 2,"PROBER": 3,"TFT": 2,"TTFT": 2}
+}

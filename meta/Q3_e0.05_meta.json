@@ -1,0 +1,11 @@
+{
+  "label": "Q3",
+  "rounds": 150,
+  "repeats": 30,
+  "seed": 9,
+  "epsilon": 0.05,
+  "payoffs": {"T": 5, "R": 3, "P": 1, "S": 0},
+  "format": "text",
+  "strategies": ["ALLC", "TFT", "CTFT", "PAVLOV", "PROBER", "ALLD"],
+  "flags": {"evolve": false, "scb": false}
+}

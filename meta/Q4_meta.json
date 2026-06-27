@@ -1,0 +1,10 @@
+{
+  "label": "Q4",
+  "generations": 120,
+  "mutation": 0.02,
+  "rounds": 150,
+  "seed": 9,
+  "epsilon": 0.05,
+  "payoffs": {"T": 5, "R": 3, "P": 1, "S": 0},
+  "strategies": ["ALLC", "ALLD", "GRIM", "TFT", "PAVLOV", "PROBER", "CTFT"]
+}

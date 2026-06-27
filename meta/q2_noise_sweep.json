@@ -1,0 +1,18 @@
+{ "rows": [
+  {"strategy":"CTFT","epsilon":0,"mean":450,"ci95":0,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"GRIM","epsilon":0,"mean":450,"ci95":0,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"PAVLOV","epsilon":0,"mean":450,"ci95":0,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"TFT","epsilon":0,"mean":450,"ci95":0,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"CTFT","epsilon":0.05,"mean":308.9,"ci95":15.994,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"GRIM","epsilon":0.05,"mean":267.9,"ci95":24.262,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"PAVLOV","epsilon":0.05,"mean":311.6,"ci95":17.7641,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"TFT","epsilon":0.05,"mean":327.5,"ci95":26.8445,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"CTFT","epsilon":0.1,"mean":307.9,"ci95":5.39944,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"GRIM","epsilon":0.1,"mean":268.3,"ci95":11.0807,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"PAVLOV","epsilon":0.1,"mean":297.8,"ci95":9.73629,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"TFT","epsilon":0.1,"mean":299.9,"ci95":11.4134,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"CTFT","epsilon":0.2,"mean":318.1,"ci95":13.8882,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"GRIM","epsilon":0.2,"mean":304.8,"ci95":9.9045,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"PAVLOV","epsilon":0.2,"mean":295.6,"ci95":11.7541,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"},
+  {"strategy":"TFT","epsilon":0.2,"mean":297.4,"ci95":13.4462,"rounds":50,"repeats":10,"T":5,"R":3,"P":1,"S":0,"seed":42,"run_label":"Q2","strategies_list":"TFT,GRIM,PAVLOV,CTFT"}
+] }

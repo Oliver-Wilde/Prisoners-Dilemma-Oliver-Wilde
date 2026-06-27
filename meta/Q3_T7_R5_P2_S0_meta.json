@@ -1,0 +1,11 @@
+{
+  "label": "Q3",
+  "rounds": 60,
+  "repeats": 5,
+  "seed": 21,
+  "epsilon": 0.05,
+  "payoffs": {"T": 7, "R": 5, "P": 2, "S": 0},
+  "format": "csv",
+  "strategies": ["TFT", "ALLD", "GRIM", "PAVLOV"],
+  "flags": {"evolve": false, "scb": false}
+}

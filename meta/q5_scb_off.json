@@ -1,0 +1,12 @@
+{ "rows": [
+  {"strategy":"GRIM","epsilon":0,"mean":799,"mean_adj":799,"ci95":0,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"PAVLOV","epsilon":0,"mean":799,"mean_adj":799,"ci95":0,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"TFT","epsilon":0,"mean":799,"mean_adj":799,"ci95":0,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLC","epsilon":0,"mean":720,"mean_adj":720,"ci95":0,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLD","epsilon":0,"mean":652,"mean_adj":652,"ci95":0,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"GRIM","epsilon":0.05,"mean":687.667,"mean_adj":687.667,"ci95":21.2241,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLD","epsilon":0.05,"mean":682.5,"mean_adj":682.5,"ci95":12.7588,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"PAVLOV","epsilon":0.05,"mean":634.333,"mean_adj":634.333,"ci95":14.8025,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"TFT","epsilon":0.05,"mean":613.667,"mean_adj":613.667,"ci95":37.7542,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLC","epsilon":0.05,"mean":538.333,"mean_adj":538.333,"ci95":28.0617,"rounds":80,"repeats":6,"T":5,"R":3,"P":1,"S":0,"seed":123,"run_label":"Q5","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"}
+] }

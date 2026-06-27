@@ -1,0 +1,11 @@
+{
+  "label": "Q2",
+  "rounds": 150,
+  "repeats": 30,
+  "seed": 7,
+  "epsilon": 0,
+  "payoffs": {"T": 5, "R": 3, "P": 1, "S": 0},
+  "format": "text",
+  "strategies": ["TFT", "GRIM", "PAVLOV", "CTFT"],
+  "flags": {"evolve": false, "scb": false}
+}

@@ -1,0 +1,11 @@
+{
+  "label": "Q3",
+  "rounds": 100,
+  "repeats": 10,
+  "seed": 1,
+  "epsilon": 0.03,
+  "payoffs": {"T": 5, "R": 3, "P": 1, "S": 0},
+  "format": "json",
+  "strategies": ["ALLC", "TFT"],
+  "flags": {"evolve": false, "scb": false}
+}

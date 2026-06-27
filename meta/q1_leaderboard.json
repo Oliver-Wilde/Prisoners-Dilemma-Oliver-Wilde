@@ -1,0 +1,7 @@
+{ "rows": [
+  {"strategy":"GRIM","mean":999,"ci95":0,"rounds":100,"repeats":5,"epsilon":0,"T":5,"R":3,"P":1,"S":0,"seed":0,"run_label":"Q1","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"PAVLOV","mean":999,"ci95":0,"rounds":100,"repeats":5,"epsilon":0,"T":5,"R":3,"P":1,"S":0,"seed":0,"run_label":"Q1","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"TFT","mean":999,"ci95":0,"rounds":100,"repeats":5,"epsilon":0,"T":5,"R":3,"P":1,"S":0,"seed":0,"run_label":"Q1","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLC","mean":900,"ci95":0,"rounds":100,"repeats":5,"epsilon":0,"T":5,"R":3,"P":1,"S":0,"seed":0,"run_label":"Q1","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"},
+  {"strategy":"ALLD","mean":812,"ci95":0,"rounds":100,"repeats":5,"epsilon":0,"T":5,"R":3,"P":1,"S":0,"seed":0,"run_label":"Q1","strategies_list":"ALLC,ALLD,TFT,GRIM,PAVLOV"}
+] }
